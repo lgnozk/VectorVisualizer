@@ -1,4 +1,4 @@
-# VectorDebugger
+# VectorVisualizer
 
 <img width="800" alt="Screenshot 2024-08-30 at 11 42 42" src="https://github.com/user-attachments/assets/9be96ea4-26de-4618-8a0a-88780c9ade84">
 
