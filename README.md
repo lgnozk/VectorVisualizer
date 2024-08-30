@@ -7,6 +7,8 @@ Vector Visualizer is a tool for Unity that allows you to easily view and modify 
 
 [Watch the usage video](https://www.youtube.com/watch?v=rvZ1paz1bUA)
 
+[Documentation](https://github.com/lgnozk/VectorVisualizer/blob/826c01655ea59c761ea0c368b919f073382b0695/Assets/VectorVisualizer/VectorVisualizerDoc.pdf)
+
 ### Features:
 
 -Can be used for all Vector3 and Vector2 properties or selectively with the [VisualizableVector] attribute.
